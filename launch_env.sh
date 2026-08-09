@@ -21,3 +21,4 @@ fi
 
 export STAGING_ROOT="/data/safe_staging"
 export FINGERPRINT="SUBARU_CROSSTREK_2025"
+export DISABLE_FW_CACHE="1"
